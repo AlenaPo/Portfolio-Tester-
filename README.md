@@ -28,7 +28,7 @@
   <li>Провести тестирование API Проекта 1</li>
 </ol>
 <p>Главной задачей было составить коллекцию в Postman и провести по ней Тест ран<p>
->  <a href="[https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f](https://docs.google.com/document/d/1SslnfIcE51Dlu03TX4RYUpwTwn4hAxf0LGRPOaittuU/edit?usp=sharing)">Ссылка на проект</a>
+>  <a href="https://docs.google.com/document/d/1SslnfIcE51Dlu03TX4RYUpwTwn4hAxf0LGRPOaittuU/edit?usp=sharing">Ссылка на проект</a>
   
  
  <p>Выводы:<p>
@@ -36,6 +36,8 @@
    
   <li>Итог: Создана рабочая коллекция, Тест ран проведен в заявленные сроки, статус коды запросов 200 ОК</li>
 </ol>
+
+
 ## Контактная информация
 - Email: alena.finn@mail.ru
 
