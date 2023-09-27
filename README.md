@@ -39,5 +39,5 @@
 
 
 ## Контактная информация
-- Email: alena.finn@mail.ru
+- Email: name.rudakova.alena@mail.ru
 
